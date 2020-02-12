@@ -4,3 +4,5 @@
    * Natural Laguage Processing
    * Computer vision
    * Time Series
+   * Recommender System
+
